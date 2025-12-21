@@ -1,0 +1,144 @@
+.login-header
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    background-color: #3B5997;
+    color: white;
+
+    padding: 10px;
+
+    font-size: 0.7rem;
+}
+.text
+{
+    font-family: "Arial";
+}
+.title-text
+{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.subtitle-text
+{
+    font-size: 1.5rem;
+    
+}
+
+.registration-form
+{
+    display: grid;
+}
+
+.register-button
+{
+    border: 1px solid #3B6E22;
+    background: linear-gradient(#8ACC72, #5C8E47);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+
+    color: white;
+
+    font-family: "Arial Black";
+    text-shadow: #4D7B3D 1px 1px;
+}
+
+.registration-container
+{
+    padding: 20px;
+}
+.number-input
+{
+    max-width: 80px;
+}
+body
+{
+    height: 100%;
+    background: linear-gradient(#FFFFFF, #D4D8E8);
+    background-attachment: fixed;
+    margin: 0px;
+}
+
+.registration-field
+{
+    font-size: 1.1rem;
+    padding: 5px;
+    border-radius: 5px;
+    border:1px solid #BDC7D3;
+}
+.registration-field-large
+{
+    font-size: 1.1rem;
+    padding: 5px;
+    border-radius: 5px;
+    border:1px solid #BDC7D3;
+    width: 100%;
+}
+
+.select-month
+{
+    font-size: 1.1rem;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #BDC7D3;
+}
+.login-header input 
+{
+    
+    font-size: 0.7rem;
+}
+
+.section-title
+{
+    font-size: 1.2rem;
+}
+
+.header-link
+{
+    color: #80B1D6;
+    text-decoration: none;
+
+}
+.header-link:visited
+{
+    color: #80B1D6;
+    text-decoration: none;
+}
+
+.other-link 
+{
+    color: #365EA1;
+    text-decoration: none;
+}
+
+.other-link:visited
+{
+    color: #365EA1;
+    text-decoration: none;
+}
+
+
+
+
+.header-button
+{
+    background-color: #4267B2;
+    border: 1px solid #29487D;
+    color: white;
+
+    padding: 10px;
+}
+
+.smaller
+{
+    font-size: 0.6rem;
+}
+
+.gender-form
+{
+    padding: 20px;
+}
