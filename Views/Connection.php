@@ -13,7 +13,7 @@
                 <br>
                 <a class="text header-link smaller" href=".">Informations de compte oubliées?</a>
             </div>
-            <div class="input-group-3">
+            <div>
                 <input class="text header-button" type="submit" value="Connexion">
             </div>
         </div>
