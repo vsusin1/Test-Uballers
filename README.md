@@ -3,9 +3,9 @@
 ## Précisions
 
 Une estimation du temps que j'ai passé sur chaque langage:
-- **HTML** : 50-60%
-- **PHP** : 10-20%
-- **CSS** : 30-40% 
+- **HTML** : ~60%
+- **PHP** : ~10%
+- **CSS** : ~30% 
 
 ## Comment exécuter la page?
 
