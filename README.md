@@ -3,7 +3,8 @@
 ## Précisions
 
 Une estimation du temps que j'ai passé sur chaque langage:
-- **PHP** : 60-70%
+- **HTML** : 50-60%
+- **PHP** : 10-20%
 - **CSS** : 30-40% 
 
 ## Comment exécuter la page?
@@ -13,3 +14,7 @@ Afin d'exécuter la page en local, il y a plusieurs cas de figures:
 - Si vous utilisez **XAMPP**, placez le dossier contenant le projet dans le dossier `/htdocs` de l'emplacement d'installation de XAMPP.
 
 Ensuite, démarrez le serveur local sur Laragon/WampServer/XAMPP, et rendez-vous dans votre navigateur avec l'URL `http://localhost/UballersTest`.
+
+## Un aperçu
+
+![Une capture d'écran représentant le rendu final du test de code](rendu.png)
